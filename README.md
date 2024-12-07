@@ -45,7 +45,7 @@ Através deste projeto, busquei não apenas replicar a interface, mas também co
 ### 📂 Como Executar Localmente  
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/MuseuNacional.git
+   git clone https://github.com/FelipeFernandesr/MuseuNacional.git
 
 ---
 
