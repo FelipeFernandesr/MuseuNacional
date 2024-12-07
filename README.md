@@ -33,7 +33,8 @@ Através deste projeto, busquei não apenas replicar a interface, mas também co
 ---
 
 ### 📸 Demonstração  
-*(Adicione aqui capturas de tela ou GIFs que mostrem o funcionamento e o design do seu projeto.)*
+![museuimg](https://github.com/user-attachments/assets/64d735a3-b4d9-4bf6-b885-03ece365c57b)
+![museuimg2](https://github.com/user-attachments/assets/19d5bcbd-299d-4250-a827-e36e56279568)
 
 ---
 
