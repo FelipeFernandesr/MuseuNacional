@@ -49,16 +49,18 @@ Através deste projeto, busquei não apenas replicar a interface, mas também co
 
 ---
 
-🙋‍♂️ Sobre Mim
+## Autor:
+<div align="left" width="80px" style="border-radius: 50px">
+    <img  src="https://https://github.com/FelipeFernandesr/MuseuNacional/img/AvatarFelipe.jpg"  width="80px"  /> 
+</div>
+
+
+### Felipe Fernandes
 Sou um desenvolvedor apaixonado por aprender e criar experiências visuais que conectam pessoas e ideias. Este projeto é um reflexo do meu compromisso em evoluir continuamente como profissional e entregar valor por meio da tecnologia.
 
 Conecte-se comigo!
 
-<a href="https://www.linkedin.com/in/felipefernandesr">LinkedIn</a>
-<a href="https://github.com/FelipeFernandesr">GitHub</a>
-📫 felipefrf9@gmail.com
-Whatsapp +55 21 97908-6285📱
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/FelipeFernandesr)](https://www.linkedin.com/in/FelipeFernandesr)
-[![Gmail Badge](https://img.shields.io/badge/-felipefrf9@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipefrf9@gmail.com)](mailto:felipefrf9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/FelipeFernandesr)
+<a href = "mailto:felipefrf9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://api.whatsapp.com/send?l=pt_BR&phone=5521979086285" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
