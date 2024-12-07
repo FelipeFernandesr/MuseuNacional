@@ -46,3 +46,19 @@ Através deste projeto, busquei não apenas replicar a interface, mas também co
 1. Clone o repositório:  
    ```bash
    git clone https://github.com/seu-usuario/MuseuNacional.git
+
+---
+
+🙋‍♂️ Sobre Mim
+Sou um desenvolvedor apaixonado por aprender e criar experiências visuais que conectam pessoas e ideias. Este projeto é um reflexo do meu compromisso em evoluir continuamente como profissional e entregar valor por meio da tecnologia.
+
+Conecte-se comigo!
+
+<a href="https://www.linkedin.com/in/felipefernandesr">LinkedIn</a>
+<a href="https://github.com/FelipeFernandesr">GitHub</a>
+📫 felipefrf9@gmail.com
+Whatsapp +55 21 97908-6285📱
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/FelipeFernandesr)](https://www.linkedin.com/in/FelipeFernandesr)
+[![Gmail Badge](https://img.shields.io/badge/-felipefrf9@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipefrf9@gmail.com)](mailto:felipefrf9@gmail.com)
+
