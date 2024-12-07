@@ -5,6 +5,10 @@ Este projeto é uma recriação visual do site do **Museu Nacional**, desenvolvi
 
 Através deste projeto, busquei não apenas replicar a interface, mas também compreender como as diferentes tecnologias se integram para criar uma experiência fluida e cativante para o usuário.
 
+<p align="center">
+     <a href="https://museu-nacional-psi.vercel.app">📱 Visite a página</a>
+</p>
+
 ---
 
 ### 🛠️ Tecnologias Utilizadas  
