@@ -50,15 +50,14 @@ Através deste projeto, busquei não apenas replicar a interface, mas também co
 ---
 
 ## Autor:
-<div align="left" width="80px" style="border-radius: 50px">
-    <img  src="https://https://github.com/FelipeFernandesr/MuseuNacional/img/AvatarFelipe.jpg"  width="80px"  /> 
-</div>
+
+<img  src="https://github.com/FelipeFernandesr/MuseuNacional/blob/main/img/AvatarFelipe.png"  width="80px" align="left" /> 
 
 
 ### Felipe Fernandes
 Sou um desenvolvedor apaixonado por aprender e criar experiências visuais que conectam pessoas e ideias. Este projeto é um reflexo do meu compromisso em evoluir continuamente como profissional e entregar valor por meio da tecnologia.
 
-Conecte-se comigo!
+#### Conecte-se comigo!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/FelipeFernandesr)
 <a href = "mailto:felipefrf9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
